@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/2015年-李劲-创新设计-大数据组-大作业/cpLibrary-更新后的版本.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
